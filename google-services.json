@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252731756238",
+    "project_id": "tucutrack-7191e",
+    "storage_bucket": "tucutrack-7191e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252731756238:android:8c47b6477eefb564f6ca9f",
+        "android_client_info": {
+          "package_name": "com.mycompany.tucutrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252731756238-3it4sq952fi4g2e98k64l0hhg2dcoob9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPJ00eZ0EGYer6lfcbBx7oKbT7endLHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252731756238-3it4sq952fi4g2e98k64l0hhg2dcoob9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
